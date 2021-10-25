@@ -30,3 +30,16 @@ For default settings, the maximum possible storage time is just over 6 hours.
 ## License 
 
 Permissive
+
+## Project status
+
+Project in progress
+
+# Authors
+
+Nicolas Woerle, EPFL
+
+## Acknowledgments
+
+I would like to thank the teams of the course "Introduction to research skills for Engineers" for their teaching and for the advice they gave me which allowed the realization of this project 
+
