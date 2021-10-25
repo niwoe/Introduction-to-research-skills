@@ -8,7 +8,7 @@ Assumptions:
 - the world final consumption is entirely based on renewable energies 
 - the only form of storage used is the Lithium-ion battery
 - The calculations are based on current knowledge and technology 
-- 
+
 The Input "storage time [Hours]" allows to define the storage time of the different scenarios.
 > 6 => 6 hours of average consumption stored
 
