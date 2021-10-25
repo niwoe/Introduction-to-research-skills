@@ -3,6 +3,7 @@
 ##  Purpose 
 
 According to different scenarios set by the user, the algorithm determines if the world's lithium reserves known to date are sufficient to meet the demand (output<1) or not (output>1).
+
 Assumptions:
 - the world final consumption is entirely based on renewable energies 
 - the only form of storage used is the Lithium-ion battery
